@@ -109,7 +109,7 @@ const UICtrl = (function () {
     hideList: function () {
       document.querySelector(UISelectors.itemList).style.display = "none";
     },
-    
+
     getSelectors: function () {
       return UISelectors;
     },
